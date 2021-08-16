@@ -1,5 +1,5 @@
-# Genius :game:
+# Genius 
 
-##Versão javascript do jogo Genius.
+## Versão javascript do jogo Genius.
 
 
